@@ -1,0 +1,1 @@
+"use strict";var text="abcdrfgh";for(var i=0;i<text.length;i++){console.log(i+":"+text[i]);}

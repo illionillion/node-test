@@ -1,3 +1,4 @@
+// クラス
 class BMI {
     constructor(height,weight){
         this.height=height
