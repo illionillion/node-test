@@ -6,6 +6,7 @@ class Hoge{
     fuga(){
         console.log("Hoge.fuga");
         console.log(this.value);
+        console.log(this.value**2);
     }
 }
 
